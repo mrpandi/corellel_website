@@ -11,7 +11,7 @@ class GamingScreen extends StatefulWidget {
   @override
   State<GamingScreen> createState() => _GamingScreenState();
 }
-
+//corected by saravanan
 bool _isHovered = false;
 bool _isHovered1 = false;
 
