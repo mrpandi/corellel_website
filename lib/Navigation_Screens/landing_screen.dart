@@ -2,7 +2,6 @@ import 'package:beamer/beamer.dart';
 import 'package:corllel/Common_Screens/footer.dart';
 import 'package:corllel/Round_Animation.dart';
 import 'package:corllel/Screens/Home_Screen.dart';
-import 'package:corllel/Screens/Contact_Screen.dart';
 import 'package:corllel/Screens/MetaWorld_Screen.dart';
 import 'package:corllel/Screens/Gaming_Screen.dart';
 import 'package:flutter/material.dart';

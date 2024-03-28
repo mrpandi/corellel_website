@@ -2,7 +2,6 @@
 
 import 'package:beamer/beamer.dart';
 import 'package:corllel/Navigation_Screens/home_location.dart';
-import 'package:corllel/dummy.dart';
 import 'package:flutter/material.dart';
 
 void main() {
@@ -10,7 +9,7 @@ void main() {
 }
 
 class MyApp extends StatelessWidget {
-  MyApp({Key? key}) : super(key: key);
+  const MyApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
