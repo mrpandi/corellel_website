@@ -347,6 +347,11 @@ class _HomePageScreenState extends State<HomePageScreen> {
                           style: GoogleFonts.montaga(
                               fontSize: width * 0.043, color: Colors.white),
                         ),
+                        Image.asset(
+                          "assets/images/cgif.gif",
+                          height: width*0.08,
+                          width: width/5,
+                        ),
                         ColorizeAnimatedTextKit(
                           totalRepeatCount: Duration.microsecondsPerMillisecond,
                           text: const [
